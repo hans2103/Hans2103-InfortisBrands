@@ -1,0 +1,23 @@
+<!--
+/**
+ * @category   Hans2103
+ * @package    Hans2103_InfortisBrands
+ * @author     Hans Kuijpers
+ */
+ -->
+<config>
+    <modules>
+        <Hans2103_InfortisBrands>
+            <version>0.1.0</version>
+        </Hans2103_InfortisBrands>
+    </modules>
+    <global>
+        <helpers>
+            <brands>
+                <rewrite>
+                    <data>Hans2103_Brands_Helper_Data</data>
+                </rewrite>
+            </brands>
+        </helpers>
+    </global>
+</config>
