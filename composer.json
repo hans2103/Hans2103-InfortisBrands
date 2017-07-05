@@ -1,0 +1,14 @@
+{
+  "name": "hans2103/infortisbrands",
+  "license": "GPL-3.0",
+  "type": "magento-module",
+  "description": "Magento module to change the location of brands outside wysiwyg/infortis/brands",
+  "homepage": "https://github.com/hans2103/Hans2103-InfortisBrands",
+  "authors": [
+    {
+      "name": "Hans Kuijpers",
+      "email": "support@hkweb.nl",
+      "role": "Author/Maintainer"
+    }
+  ]
+}
