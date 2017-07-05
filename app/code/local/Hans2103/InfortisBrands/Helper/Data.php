@@ -1,6 +1,6 @@
 <?php
 
-class Hans2103_Brands_Helper_Data extends Infortis_Brands_Helper_Data
+class Hans2103_InfortisBrands_Helper_Data extends Infortis_Brands_Helper_Data
 {
     /**
      * Get path of the directory with brand images

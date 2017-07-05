@@ -8,14 +8,14 @@
 <config>
     <modules>
         <Hans2103_InfortisBrands>
-            <version>0.1.0</version>
+            <version>0.2.0</version>
         </Hans2103_InfortisBrands>
     </modules>
     <global>
         <helpers>
             <brands>
                 <rewrite>
-                    <data>Hans2103_Brands_Helper_Data</data>
+                    <data>Hans2103_InfortisBrands_Helper_Data</data>
                 </rewrite>
             </brands>
         </helpers>
